@@ -12,7 +12,7 @@ Materiales:
                 Meet:       https://meet.google.com/apo-fedn-cwv
                 Github:     https://github.com/crios2020/2025CFP35TesterTarde
                 codeshare:  https://codeshare.io/crios2020
-                wsp:        
+                wsp:        https://chat.whatsapp.com/DUsSyz4ooO676Tc3Z2ADun
 
 Software:       
                 git:                https://git-scm.com/
